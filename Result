@@ -1,0 +1,5 @@
+Enter First Number: 100
+Enter Second Number: 5
+Enter which operation would you like to perform?
+Enter any of these char for specific operation +,-,*,/: +
+100 + 5 : 105
